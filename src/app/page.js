@@ -50,7 +50,7 @@ export default function Home() {
         />
         <div className="text-gray-500 max-w-md mx-auto mt-4 flex flex-col gap-4">
           <p>
-          Quality: We're committed to sourcing the best soybeans from US farmers
+          Quality: We are committed to sourcing the best soybeans from US farmers
           </p>
           <p>
           Reliability: We pride ourselves on timely and efficient logistics and transportation
