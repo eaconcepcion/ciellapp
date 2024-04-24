@@ -82,7 +82,7 @@ export default function Header() {
             CIELL
           </Link>
           <Link href={'/'}>Home</Link>
-          <Link href={'/menu'}>Menu</Link>
+          <Link href={'/menu'}>Our Products</Link>
           <Link href={'/#about'}>About</Link>
           <Link href={'/#contact'}>Contact</Link>
         </nav>
