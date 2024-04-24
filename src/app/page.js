@@ -15,10 +15,10 @@ export default function Home() {
         />
         <div className="text-gray-500 max-w-md mx-auto mt-4 flex flex-col gap-4">
           <p>
-          At CIELL, we're dedicated to bridging the gap between US soybean farmers and global markets. Our team of experts has years of experience in the agricultural industry and is passionate about providing high-quality soybeans to meet the growing demand worldwide.
+          At CIELL, we are dedicated to bridging the gap between US soybean farmers and global markets. Our team of experts has years of experience in the agricultural industry and is passionate about providing high-quality soybeans to meet the growing demand worldwide.
           </p>
           <p>
-          CIELL was founded by a group of agricultural professionals who saw an opportunity to connect the world's growing demand for soybeans with the high-quality supply from US farmers. We've built a network of relationships with farmers, processors, and customers to ensure that our soybeans meet the highest standards of quality and sustainability.
+          CIELL was founded by a group of agricultural professionals who saw an opportunity to connect the world's growing demand for soybeans with the high-quality supply from US farmers. We have built a network of relationships with farmers, processors, and customers to ensure that our soybeans meet the highest standards of quality and sustainability.
             </p>
         </div>
       </section>
