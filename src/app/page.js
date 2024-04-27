@@ -70,7 +70,7 @@ export default function Home() {
         />
         <div className="text-gray-500 max-w-md mx-auto mt-4 flex flex-col gap-4">
           <p>
-          Edison Concepcion, Manager
+          Edison Concepcion, Sales & Marketing
           </p>
         </div>
       </section>
