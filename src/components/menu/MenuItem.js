@@ -125,7 +125,7 @@ export default function MenuItem(menuItem) {
                 Cancel
               </button>
               <p className="text-center text-gray-500 text-sm mb-2">
-              Soybean meal is a common protein source in animal diets, offering several benefits:
+              Soybean is a common protein source in animal diets, offering several benefits:
               High protein content (45-50%).
               Energy content (1.8-2.0 Mcal/kg).
               Palatability and digestibility.
