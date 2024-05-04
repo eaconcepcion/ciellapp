@@ -127,13 +127,11 @@ export default function MenuItem(menuItem) {
             <h2 className="text-lg font-bold text-center mb-2"></h2>
               <p>
               Soybean meal is a common protein source in animal diets, offering several benefits:
-              High protein content (45-50%)
+              High protein content (45-50%).
+              Energy content (1.8-2.0 Mcal/kg).
+              Palatability and digestibility.
               Soybean meal has an excellent amino acid profile that complements that of corn, the primary energy source in aquatic, cattle, piggery, poultry or other animal diets. 
-              Energy content (1.8-2.0 Mcal/kg)
-              Palatability and digestibility
               </p>
-            </div>
-            </div>
             </div>
           </div>
         </div>
