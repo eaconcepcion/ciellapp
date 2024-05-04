@@ -124,9 +124,20 @@ export default function MenuItem(menuItem) {
                 onClick={() => setShowPopup(false)}>
                 Cancel
               </button>
-             <p className="text-center text-gray-500 text-sm mb-2">
+           <h2 className="text-lg font-bold text-center mb-2">Soybean meal is a common protein source, offering several benefits:</h2>
+              <p className="text-center text-gray-500 text-sm mb-2">
+              High protein content (45-50%)
+              </p>
+              <p className="text-center text-gray-500 text-sm mb-2">
               Soybean meal has an excellent amino acid profile that complements that of corn, the primary energy source in aquatic, cattle, piggery, poultry or other animal diets. 
               </p>
+              <p className="text-center text-gray-500 text-sm mb-2">
+              	Energy content (1.8-2.0 Mcal/kg)
+              </p>
+              <p className="text-center text-gray-500 text-sm mb-2">
+              	Palatability and digestibility
+              </p>
+            </div>
             </div>
           </div>
         </div>
