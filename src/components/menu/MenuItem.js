@@ -125,7 +125,6 @@ export default function MenuItem(menuItem) {
                 Cancel
               </button>
               <h2 className="text-lg font-bold text-center mb-2"></h2>
-              <h2 className="text-lg font-bold text-center mb-2"></h2>
               <p className="text-center text-gray-500 text-sm mb-2">
               Soybean meal is a common protein source in animal diets, offering several benefits:
               </p>
