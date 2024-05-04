@@ -73,6 +73,9 @@ export default function MenuItem(menuItem) {
               <p className="text-center text-gray-500 text-sm mb-2">
                 {description}
               </p>
+              <p className="text-center text-gray-500 text-sm mb-2">
+              Minimum Quantity Order (MOQ) 20MT(20,000 Kilograms). A 20 Foot Container.
+              </p>
               {sizes?.length > 0 && (
                 <div className="py-2">
                   <h3 className="text-center text-gray-700">Pick your size</h3>
