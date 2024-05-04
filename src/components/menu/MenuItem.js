@@ -74,7 +74,7 @@ export default function MenuItem(menuItem) {
                 {description}
               </p>
               <p className="text-center text-gray-500 text-sm mb-2">
-              Minimum Quantity Order (MOQ) 20MT(20,000 Kilograms). A 20 Foot Container.
+              Minimum Quantity Order (MQO) 20MT(20,000 Kilograms). A 20 Foot Container.
               </p>
               {sizes?.length > 0 && (
                 <div className="py-2">
@@ -124,6 +124,9 @@ export default function MenuItem(menuItem) {
                 onClick={() => setShowPopup(false)}>
                 Cancel
               </button>
+             <p className="text-center text-gray-500 text-sm mb-2">
+              Soybean meal has an excellent amino acid profile that complements that of corn, the primary energy source in aquatic, cattle, piggery, poultry or other animal diets. 
+              </p>
             </div>
           </div>
         </div>
