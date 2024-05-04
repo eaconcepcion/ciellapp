@@ -124,7 +124,6 @@ export default function MenuItem(menuItem) {
                 onClick={() => setShowPopup(false)}>
                 Cancel
               </button>
-            <h2 className="text-lg font-bold text-center mb-2"></h2>
               <p>
               Soybean meal is a common protein source in animal diets, offering several benefits:
               High protein content (45-50%).
